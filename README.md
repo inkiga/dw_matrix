@@ -1,3 +1,2 @@
-# Projek transformacja
-Project transformation
-Miejsca dla zadań w pięciodniowej transformacji Matrix organizowane przez DataWorkshop
+# Projekt transformacja
+Miejsce dla zadań w pięciodniowej transformacji Matrix organizowane przez DataWorkshop
